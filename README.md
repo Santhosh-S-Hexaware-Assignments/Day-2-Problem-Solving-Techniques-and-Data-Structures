@@ -8,22 +8,22 @@ This repository contains the solutions for the Day 2 Python assignment, covering
 
 | File | Description |
 |---|---|
-| [code_file.py](./Set%201/code_file.py) | Implementation of BST, Hashing, Graphs, Sliding Window, and Two Pointers. |
-| [README.md](./Set%201/README.md) | Algorithm decision table. |
+| [code_file.py](https://github.com/Santhosh-S-Hexaware-Assignments/Day-2-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%201/code_file.py) | Implementation of BST, Hashing, Graphs, Sliding Window, and Two Pointers. |
+| [README.md](https://github.com/Santhosh-S-Hexaware-Assignments/Day-2-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%201/README.md) | Algorithm decision table. |
 
 ### Set 2 – Insurance Claims Processing
 
 | File | Description |
 |---|---|
-| [code_file.py](./Set%202/code_file.py) | Implementation of BST, Hash Maps, Graphs, Sliding Window, and Two Pointers. |
-| [README.md](./Set%202/README.md) | Complexity analysis and algorithm decision table. |
+| [code_file.py](https://github.com/Santhosh-S-Hexaware-Assignments/Day-2-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%202/code_file.py) | Implementation of BST, Hash Maps, Graphs, Sliding Window, and Two Pointers. |
+| [README.md](https://github.com/Santhosh-S-Hexaware-Assignments/Day-2-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%202/README.md) | Complexity analysis and algorithm decision table. |
 
 ### Set 3 – Logistics Network and Delivery Windows
 
 | File | Description |
 |---|---|
-| [code_file.py](./Set%203/code_file.py) | Implementation of BST, Hash Maps, Graphs (BFS/DFS), Sliding Window, and Two Pointers. |
-| [README.md](./Set%203/README.md) | Graph adjacency list, expected output highlights, and algorithm explanations. |
+| [code_file.py](https://github.com/Santhosh-S-Hexaware-Assignments/Day-2-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%203/code_file.py) | Implementation of BST, Hash Maps, Graphs (BFS/DFS), Sliding Window, and Two Pointers. |
+| [README.md](https://github.com/Santhosh-S-Hexaware-Assignments/Day-2-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%203/README.md) | Graph adjacency list, expected output highlights, and algorithm explanations. |
 
 ## 📁 Repository Structure
 
